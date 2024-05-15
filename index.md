@@ -347,7 +347,7 @@
 
 ## Cloud
 
-[Nextcloud](https://nextcloud.com/) :c-web: :c-pc: :c-mobile: :c-selfhost: - Selfhostable cloud service
+[Nextcloud](https://nextcloud.com/) :c-web: :c-pc: :c-mobile: :c-selfhost: - Self-hostable cloud service
 
 ## E-mail
 
@@ -367,7 +367,7 @@
 
 ## E-readers
 
-[Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are avaiable on their readme
+[Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are available on their readme
 [Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) :c-android: | [Mihon](https://mihon.app/) :c-android: - Android manga readers. TachiyomiSY, Neko and Mihon are forks of [Tachiyomi](https://tachiyomi.org/)
 [Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS
 
@@ -498,7 +498,7 @@ Those are applications and resources that their functionality is directred relat
 
 ## Consoles (Homebrew)
 
---Note: If you're going to watch an homebrew youtube tutorial, please watch an up-to-date one while reading a text based guide. Trust first the text based guide--
+--Note: If you're going to watch an homebrew youtube tutorial, please watch an up-to-date one while reading a text based guide. Trust the text based guide first--
 
 ### Nintendo
 
@@ -620,7 +620,7 @@ Those are applications and resources that their functionality is directred relat
 ### Archive managers
 
 [7-Zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.
---Note: There are CLI based programs for Mac and Linux, but the GUI version is only avaiable on Windows--
+--Note: There are CLI based programs for Mac and Linux, but the GUI version is only available on Windows--
 [Ark](https://apps.kde.org/ark/) :c-linux: | [GNOME Archive Manager](https://wiki.gnome.org/Apps/FileRoller) :c-linux: - Archive managers for Linux
 
 ## Lists and resources
@@ -709,17 +709,17 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 - All entries should contain programs where the user has total control over it and are virus-free. Preferably Free and Open Source applications
 - Each entry should follow the following format:
   - Name of the product as a link (`[Product](link)`)
-  - Row of [custom icons](#custom-icons) showing the avaiable icons (if it contains) in the following order:
+  - Row of [custom icons](#custom-icons) showing the available icons (if it contains) in the following order:
     - Web :c-chrome: :c-firefox:
-      - If avaiable on all platforms: :c-web:
-      - If it is avaiable as a browser extension: :c-extension:
+      - If available on all platforms: :c-web:
+      - If it is available as a browser extension: :c-extension:
     - Desktop :c-windows: :c-macos: :c-linux:
-      - If avaiable on all platforms: :c-pc:
+      - If available on all platforms: :c-pc:
     - Mobile :c-android: :c-ios:
-      - If avaiable on all platforms: :c-mobile:
+      - If available on all platforms: :c-mobile:
     - Console :c-console:
     - TV Boxes :c-roku: :c-tvos:
-      - If avaiable on all platforms: :c-tvbox:
+      - If available on all platforms: :c-tvbox:
     - VR :c-vr:
     - Selfhostable service :c-selfhost:
     - Source code avaiability :c-proprietary:
@@ -731,7 +731,7 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 ### Examples
 
 Single entry:
-[Jellyfin](https://jellyfin.org/) :c-pc: :c-mobile: :c-console: :c-tvbox: :c-selfhost: - Selfhostable streaming service
+[Jellyfin](https://jellyfin.org/) :c-pc: :c-mobile: :c-console: :c-tvbox: :c-selfhost: - Self-hostable streaming service
 
 Entries with alternatives:
 [Vendetta](https://github.com/vendetta-mod/Vendetta) :c-mobile: - Multi-platform Discord mobile client mod
@@ -746,18 +746,18 @@ Merged entries:
 :c-mobile: `:c-mobile:` - Runs on all mobile platforms
 :c-web: `:c-web:` - Runs on all browsers
 :c-console: `:c-console:` - Runs on a console
-:c-vr: `:c-vr:` - Avaiable on VR consoles
-:c-selfhost: `:c-selfhost:` - The service is selfhostable
+:c-vr: `:c-vr:` - Available on VR consoles
+:c-selfhost: `:c-selfhost:` - The service is self-hostable
 :c-android: `:c-android:` - Runs on Android
 :c-ios: `:c-ios:` - Runs on iOS
-:c-tvbox: `:c-tvbox:` - Avaiable on most smart TV box platforms
+:c-tvbox: `:c-tvbox:` - Available on most smart TV box platforms
 :c-roku: `:c-roku:` - Supports Roku TV
 :c-tvos: `:c-tvos:` - Supports Apple TV
 :c-windows: `:c-windows:` - Runs on Windows
 :c-macos: `:c-macos:` - Runs on MacOS
 :c-linux: `:c-linux:` - Runs on Linux
 :c-cli: `:c-cli:` - Is a command line only application
-:c-extension: `:c-extension:` - Is avaiable as a browser extension
+:c-extension: `:c-extension:` - Is available as a browser extension
 :c-chrome: `:c-chrome:` - Runs on Chrome
 :c-firefox: `:c-firefox:` - Runs on Firefox
 :c-proprietary: `:c-proprietary:` - Is proprietary
