@@ -13,7 +13,7 @@ Inform which entry has issues
 
 **What's wrong with?**
 Provide a clear and cohesive description on what it lacks
-> ex: It wasn't informed that a Linux version existis
+> ex: It wasn't informed that a Linux version exists
 
 **What changes should be applied**
 Provide what changes we need to make
